@@ -19,3 +19,4 @@ origin  https://github.com/nkpaudel/chapter-12-ex.git (push)
 
 git branch -r 
 
+detach head: git checkout main <Reverse to Root/main/head>
