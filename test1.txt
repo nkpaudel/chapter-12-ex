@@ -2,3 +2,6 @@ test file
 
 cats
 chicken
+
+Cow
+Buffalo
