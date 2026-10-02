@@ -30,3 +30,4 @@ git fetch origin main
 git pull: is use to retrieve changed form a remote repository. unlike fetch, pull actually updates our HEAD branch with whatever changes are retrieved form the remote.
 
 git pull = git fetch + mgit merge
+git pull origin main
