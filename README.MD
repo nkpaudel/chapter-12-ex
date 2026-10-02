@@ -26,3 +26,7 @@ Refresh from master (Fatching/pulling)
 
 git fetch (fetching allows us to download change from a remote repository, but those change will not be automatically integrated into our working files. It lets you see what others have been working on, without having to merge those change into your local repo)
 git fetch origin main
+
+git pull: is use to retrieve changed form a remote repository. unlike fetch, pull actually updates our HEAD branch with whatever changes are retrieved form the remote.
+
+git pull = git fetch + mgit merge
