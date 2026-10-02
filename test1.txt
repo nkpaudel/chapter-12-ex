@@ -10,6 +10,9 @@ Buffalo
 goat
 sheep
 
+Oranch
+Apple
+
 
 Banana
 Suntala
